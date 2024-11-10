@@ -27,7 +27,7 @@ function retroBowl() {
         scope: __uv$config.prefix,
       });
   </script>
-  <iframe src="/assets/rb/index.html" style="position: fixed; inset: 0px; outline: none; border: none; height: 100%; width: 100%; overflow: hidden;"></iframe>
+  <iframe src="/assets/mc/Selector.html" style="position: fixed; inset: 0px; outline: none; border: none; height: 100%; width: 100%; overflow: hidden;"></iframe>
 `;
 
   function getRandomThreeDigitNumber() {
